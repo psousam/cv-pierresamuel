@@ -45,11 +45,11 @@ Lycée Jean Monnet, Blanquefort – 2022
 
 ## 🔬 Projets
 
-### 🔧 Arbre généalogique familial *(en cours)*
-> Développement d’une application en Rust & TypeScript avec base de données relationnelle et interface web.
+### 🔧 Application d’arbre généalogique *(en cours)*
+> Développement d’une application full-stack en **Rust** (backend) & **TypeScript** (frontend), avec **base de données relationnelle** et interface web responsive.
 
 ### 🎼 Base de données pour chorale *(2024–2025)*
-> Organisation de partitions et audios dans une base Notion, bientôt migrée vers une application web fullstack.
+> Conception et structuration d’une bibliothèque numérique pour partitions et enregistrements audio via **Notion**, avec migration en cours vers une application sur mesure.
 
 ### 🧠 Simulation neuronale & IA biomédicale
 > Modélisation de neurones (Hodgkin-Huxley, FitzHugh-Nagumo), estimation de paramètres avec PINNs, traitement de signaux EEG.
