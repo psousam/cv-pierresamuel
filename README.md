@@ -51,6 +51,9 @@ Lycée Jean Monnet, Blanquefort – 2022
 ### 🎼 Base de données pour chorale *(2024–2025)*
 > Conception et structuration d’une bibliothèque numérique pour partitions et enregistrements audio via **Notion**, avec migration en cours vers une application sur mesure.
 
+### *Projet DnD*  
+>  Jeu Donjons & Dragons avec interface graphique en Python 
+
 ### 🧠 Simulation neuronale & IA biomédicale
 > Modélisation de neurones (Hodgkin-Huxley, FitzHugh-Nagumo), estimation de paramètres avec PINNs, traitement de signaux EEG.
 
